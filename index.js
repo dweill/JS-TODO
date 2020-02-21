@@ -4,4 +4,4 @@
   // Check the length of tasks
     // If tasks has length
       // Set todo list visibility to true
-    // Add table row with task name value
+    // Add list item with task name value
