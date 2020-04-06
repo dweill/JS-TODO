@@ -1,9 +1,9 @@
 //  Initialize variable tasks to empty array
 
 // Define add task function takes a task name
-  // Add taskName to tasksArray
+  // Add task name to tasks array
   // Create list item
-  // Set list item id to taskName for reference
+  // Set list item id to task name for reference
   // Add list item to bottom of todolist
   // Create input
   // Set the type of the input to checkbox
@@ -13,6 +13,6 @@
   // Add value to list item
 
 // Get add task button
-// add click event listener to add task button
-  // get value of task input
-  // call add task on taskName
+// Add click event listener to add task button
+  // Get value of task input
+  // Call add task on taskName
