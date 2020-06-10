@@ -1,9 +1,24 @@
+/* Create body style
+  center align text
+*/
+
+/* Create ul style
+  margins should be 2rem for top and bottom, auto for left and right
+  width should fit the content
+*/
+
 /* Create li style
   display as row
   give the checkbox and name some space to breath
-  set a width for the list */
+  set a width for the list
+  Add a margin on the top and bottom
+*/
+
+/* Create style for span inside of li
+  width should fit content
+*/
 
 /* Create completed class
   Give strikthrough text decoration
-
+  color should be black and sem transparent
 */
